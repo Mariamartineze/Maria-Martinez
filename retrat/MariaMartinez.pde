@@ -15,4 +15,5 @@ void mariamartinez(float posx,posy) {
   arc(m*4, m*10.40, m*7, m*7, radians(180), radians(360));
   arc(m*4, m*5, m, m, radians(0), radians(180));
   line(m*3.75, m*4.5, m*4.25, m*4.5);
+  pop();
 }
