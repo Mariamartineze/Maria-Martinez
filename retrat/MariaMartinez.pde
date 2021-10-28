@@ -1,4 +1,4 @@
-void mariamartinez(float posx,posy) {
+void mariamartinez(float posx,float posy) {
   push();
   translate (posx,posy);
   line(m*2, m*2, m*6, m*2);
